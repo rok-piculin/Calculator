@@ -1,8 +1,6 @@
-
-
 📘 Calculator — Android Kalkulator
-Preprost, natančen in lepo oblikovan Android kalkulator, napisan v Javi.
-Podpira osnovne matematične operacije, odstotke, znanstveno notacijo, negativna števila in formatiranje po evropskem sistemu (vejica kot decimalno ločilo).
+Elegantna, preprosta in natančna Android kalkulatorska aplikacija, razvita v Javi.
+Podpira osnovne matematične operacije, odstotke, znanstveno notacijo, negativna števila in evropski zapis števil (vejica kot decimalno ločilo).
 
 ✨ Funkcije
 ✔ Osnovne operacije
@@ -15,7 +13,7 @@ Množenje (×)
 Deljenje (÷)
 
 ✔ Napredne funkcije
-Odstotki (%)
+Izračun odstotkov (%)
 
 Znanstvena notacija za zelo velika števila
 
@@ -44,7 +42,7 @@ Aplikacija uporablja:
 
 java
 DecimalFormat formatter = new DecimalFormat("#,###.##########", symbols);
-To omogoča:
+Omogoča:
 
 evropski zapis števil
 
@@ -79,7 +77,7 @@ Kalkulator izvede:
 
 8 × 2 = 16
 
-To omogoča blok:
+To omogoča pogoj:
 
 java
 if (!Double.isNaN(firstValue) && currentOp != '0' && screen2Display.getText().length() > 0) {
@@ -94,7 +92,7 @@ Kalkulator to pravilno prikaže kot:
 
 Koda
 ∞
-📱 UI
+📱 Uporabniški vmesnik
 Aplikacija ima dva zaslona:
 
 🔹 Zgornji zaslon (screen1Display)
@@ -106,17 +104,15 @@ Koda
 Prikazuje trenutno vneseno številko ali rezultat.
 
 🛠 Tehnologije
-Java
+Java (Android)
 
 Android SDK
 
+XML Layouts
+
 DecimalFormat
 
-TextView
-
-Button
-
-OnClickListener
+TextView, Button, OnClickListener
 
 📂 Struktura projekta
 Koda
@@ -138,19 +134,10 @@ Rok Piculin
 Android Calculator — Java
 
 📄 Licenca
-Ta projekt je odprtokoden.
+Projekt je odprtokoden.
 Uporabi ga, spremeni ga, izboljšaj ga.
 
+📸 Screenshots
+<img width="337" height="592" alt="Calculator Screenshot 1" src="https://github.com/user-attachments/assets/02dd667f-b5e7-44c9-a3cf-da8df59cfa03" />
 
-
-<img width="337" height="592" alt="image" src="https://github.com/user-attachments/assets/02dd667f-b5e7-44c9-a3cf-da8df59cfa03" />
-<img width="553" height="308" alt="image" src="https://github.com/user-attachments/assets/6d385ee9-4b85-472b-a416-40c4ffec8c1d" />
-
-
-
-
-
-
-
-
-
+<img width="553" height="308" alt="Calculator Screenshot 2" src="https://github.com/user-attachments/assets/6d385ee9-4b85-472b-a416-40c4ffec8c1d" />
