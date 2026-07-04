@@ -1,6 +1,3 @@
-<img width="337" height="592" alt="image" src="https://github.com/user-attachments/assets/02dd667f-b5e7-44c9-a3cf-da8df59cfa03" />
-
-
 
 
 📘 Calculator — Android Kalkulator
@@ -143,3 +140,16 @@ Android Calculator — Java
 📄 Licenca
 Ta projekt je odprtokoden.
 Uporabi ga, spremeni ga, izboljšaj ga.
+
+
+
+<img width="337" height="592" alt="image" src="https://github.com/user-attachments/assets/02dd667f-b5e7-44c9-a3cf-da8df59cfa03" />
+
+
+
+
+
+
+
+
+
