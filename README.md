@@ -142,6 +142,10 @@ Uporabi ga, spremeni ga, izboljšaj ga.
 
 
 
-<img width="337" height="592" alt="Calculator Screenshot 1" src="https://github.com/user-attachments/assets/02dd667f-b5e7-44c9-a3cf-da8df59cfa03" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02dd667f-b5e7-44c9-a3cf-da8df59cfa03" width="300" alt="Calculator Screenshot 1">
+</p>
 
-<img width="553" height="308" alt="Calculator Screenshot 2" src="https://github.com/user-attachments/assets/6d385ee9-4b85-472b-a416-40c4ffec8c1d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d385ee9-4b85-472b-a416-40c4ffec8c1d" width="600" alt="Calculator Screenshot 2">
+</p>
